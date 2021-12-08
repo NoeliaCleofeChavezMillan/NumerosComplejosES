@@ -9,4 +9,6 @@ class TestCplxoperations(unittest.TestCase):
         self.assertAlmostEqual(suma[1], 11.8)
 
 
+if __name__ == '__main__':
+    unittest.main()
 
