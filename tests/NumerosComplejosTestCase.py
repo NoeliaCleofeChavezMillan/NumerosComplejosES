@@ -1,4 +1,4 @@
-import libreria as lc
+import src.logica.libreria as lc
 import unittest
 
 class TestCplxoperations(unittest.TestCase):
